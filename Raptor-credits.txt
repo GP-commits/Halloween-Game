@@ -1,0 +1,18 @@
+ADDITIONAL RAPTOR ASSETS — BLACK FIELD
+
+Velociraptor
+Original author: absol — https://sketchfab.com/absol_cg
+Source: https://sketchfab.com/3d-models/velociraptor-59910f5d62f74e558499c166738b0e6d
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Changes: GLB converted to FBX, selected bones and animation clips renamed,
+Unity URP materials configured, model resized, and game behavior added.
+Original model and embedded attribution are preserved under SourceAssets/Raptors/Velociraptor.
+
+Mini raptor (Turok 2008)
+User-supplied archive: mini-raptorturok-2008.zip, source/mini.glb.
+The supplied GLB does not contain author or license metadata.
+Changes: removed an unskinned authoring-helper mesh from the game export,
+converted GLB to FBX, renamed bones and selected clips, configured URP materials,
+resized the model, and added game behavior.
+The complete original GLB is preserved under SourceAssets/Raptors/MiniRaptor.
